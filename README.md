@@ -7,6 +7,8 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-4-38bdf8?style=flat-square)
 ![Neon](https://img.shields.io/badge/Neon-AI%20Gateway-00E599?style=flat-square)
 
+**🚀 Live demo:** [pulse-analytics-three.vercel.app](https://pulse-analytics-three.vercel.app)
+
 ---
 
 ## ✨ What it does
